@@ -23,7 +23,7 @@ export const Header = styled.header`
 `;
 
 export const RepositoryInfo = styled.section`
-  margin-top: 8px;
+  margin-top: 80px;
 
   header {
     display: flex;
